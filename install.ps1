@@ -28,3 +28,4 @@ foreach ($link in $downloadFiles.Keys)
 echo "`vAMD-Driver:"
 echo "Chipset: https://www.amd.com/en/support/chipsets/amd-socket-am4/b450"
 echo "GPU: https://www.amd.com/en/support/graphics/radeon-500-series/radeon-rx-500-series/radeon-rx-580 `v"
+echo ""

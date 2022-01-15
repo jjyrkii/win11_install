@@ -1,0 +1,83 @@
+{
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2022-01-15T00:48:34.758-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier" : "OpenWhisperSystems.Signal"
+        },
+        {
+          "PackageIdentifier" : "Discord.Discord"
+        },
+        {
+          "PackageIdentifier" : "Google.Chrome"
+        },
+        {
+          "PackageIdentifier" : "Jetbrains.IntelliJIDEA.Ultimate"
+        },
+        {
+          "PackageIdentifier" : "Logitech.LGS"
+        },
+        {
+          "PackageIdentifier" : "Microsoft.WindowsTerminal"
+        },
+        {
+          "PackageIdentifier" : "Notepad++.Notepad++"
+        },
+        {
+          "PackageIdentifier" : "Microsoft.Office"
+        },
+        {
+          "PackageIdentifier" : "ElectronicArts.EADesktop"
+        },
+        {
+          "PackageIdentifier" : "Valve.Steam"
+        },
+        {
+          "PackageIdentifier" : "vim.vim"
+        },
+        {
+          "PackageIdentifier" : "WhatsApp.WhatsApp"
+        },
+        {
+          "PackageIdentifier" : "ApacheFriends.Xampp"
+        },
+        {
+          "PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+        },
+        {
+          "PackageIdentifier" : "Logitech.GHUB"
+        },
+        {
+          "PackageIdentifier" : "Telegram.TelegramDesktop"
+        },
+        {
+          "PackageIdentifier" : "Google.Drive"
+        },
+        {
+          "PackageIdentifier": "SomePythonThings.ElevenClock"
+        },
+        {
+          "PackageIdentifier": "Mumble.Mumble"
+        },
+        {
+          "PackageIdentifier": "9MV0B5HZVK9Z"
+        },
+        {
+          "PackageIdentifier": "Oracle.VirtualBox"
+        },
+        {
+          "PackageIdentifier": "Rufus.Rufus"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://winget.azureedge.net/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "1.2.3411-preview"
+}
